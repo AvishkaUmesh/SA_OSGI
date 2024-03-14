@@ -1,0 +1,15 @@
+INDEX VERSION 1.131+C:\Users\User\Desktop\Music-Academy-OSGI-master\.metadata\.plugins\org.eclipse.jdt.core
+525974170.index
+4042198796.index
+1734999053.index
+218093528.index
+1865797976.index
+3217577480.index
+467776148.index
+950675066.index
+3917006936.index
+2359220819.index
+1406797590.index
+2464140467.index
+818051655.index
+991267373.index
